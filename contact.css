@@ -1,0 +1,22 @@
+
+.fil{
+    margin: 7px;
+    background-color: rgb(231, 226, 226);
+    padding: 10px;
+    border-radius: none;
+}
+#fil{
+    width: 320px;
+    border:none;
+}
+#fil1{
+    border: none;
+}
+.send{
+    background-color: #F4821E;
+    padding: 6px;
+    width: 70px;
+    color: white;
+    border: none;
+    
+}

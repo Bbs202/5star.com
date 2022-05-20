@@ -1,0 +1,145 @@
+*{
+    margin : 0 auto;
+    padding : 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    margin: 0;
+    padding : 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    }
+
+.navi{
+    font-family: Nunito Sans;
+    font-style: normal;
+   padding: 14px;
+   font-size: 1.0rem;
+   font-family: cursive;
+}
+.caro{
+    margin: 0;
+    padding: 0;
+}
+
+.secondDiv{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color:#06A7DF;
+
+}
+.target{
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 15px;
+}
+#carouselExampleControls .carousel-item img{
+    object-fit: cover;
+    object-position: center;
+    height: 100vh;
+}
+.container{
+    margin-top: 190px;
+}
+
+.third-div{
+    margin-top: 50px;
+    display: flex;
+    margin-left: 15px; 
+}
+.imd{
+    border-radius: 40px;
+    width: 376px;
+    height: 250px;
+}
+.edit7{
+    margin-top: 30px;
+}
+.edit1{
+    text-align: left;
+}
+.edit2{
+    
+    color: #F4821E;
+}
+.edit3{
+    text-align: left;
+    margin-top: 11px;
+    color: #707070;
+    font-size: 15px;
+    margin-top: 30px;
+}
+.edit5{
+    margin-top: 80px;
+    color: #707070;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 17px;
+    margin-bottom: 0;
+}
+.edit6{
+    font-size: 17px;
+}
+.edit4{
+    justify-content: left;
+  
+}
+.footer1{
+    margin-top: 30px;
+    background-color: #06A7DF;
+    height: 170px;
+    color: #000000;
+    font-family: Nunito;
+}
+.listing{
+    margin-top: 50px;
+    color: #000;
+}
+ul li{
+    display: inline;
+    list-style-type: none;
+    text-decoration: none;
+}
+li{
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px;
+    color: #000;
+}
+li .foot{
+    color: #000000;
+    text-decoration: none;
+    font-family: Nunito;
+    font-style: normal;
+}
+hr{
+    background-color: #ffffff;
+}
+.form{
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.form1{
+    background-color: #F4821E;
+    margin-left: 0;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 6px;
+}.form2{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+padding: 6px;
+}
+.dis{
+    margin-top: 70px;
+}
